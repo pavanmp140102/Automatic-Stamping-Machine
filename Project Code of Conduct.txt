@@ -1,0 +1,28 @@
+Project Code of Conduct
+As contributors and maintainers of this project, we are committed to fostering an open and inclusive community. We strive to provide a positive and harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual orientation.
+
+Expected Behavior
+We expect all contributors and users to:
+
+Be respectful and considerate towards others.
+Exercise empathy and kindness in all interactions.
+Be open to constructive feedback and differing opinions.
+Use inclusive language and avoid offensive or derogatory comments.
+Respect the boundaries and privacy of others.
+Be mindful of the impact of your words and actions on others.
+Unacceptable Behavior
+Unacceptable behavior includes, but is not limited to:
+
+Harassment, discrimination, or intimidation of any form.
+Offensive, derogatory, or discriminatory comments or jokes.
+Personal attacks, insults, or trolling.
+Public or private harassment, including unwelcome advances or attention.
+Any other behavior that could reasonably be considered inappropriate in a professional setting.
+Reporting and Enforcement
+If you witness or experience any behavior that violates this code of conduct, please promptly report it by contacting [project contact person or email]. All reports will be kept confidential, and appropriate measures will be taken to address the issue. Project maintainers reserve the right to enforce this code of conduct by taking appropriate actions, including warnings, temporary or permanent bans, and reporting to relevant authorities if necessary.
+
+Scope
+This code of conduct applies to all project spaces, including code repositories, issue trackers, forums, mailing lists, chat platforms, and any other project-related communication channels. It also applies to all project events, both online and offline.
+
+Acknowledgment
+This code of conduct is adapted from the Contributor Covenant, version 2.1.
