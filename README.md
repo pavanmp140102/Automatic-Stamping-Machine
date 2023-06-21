@@ -7,10 +7,10 @@ The Automatic Stamping Machine is a revolutionary solution designed to streamlin
 ## Project Description
 The goal of this project is to develop an Automatic Stamping Machine for ABC Packaging Company. The machine is designed to stamp the company's logo, address, product details, etc., on packeted products, paper/documents, boxes, or bottles.
 
-The Automatic Stamping Machine aims to overcome the challenges associated with the current manual process. By automating the stamping/printing tasks, the machine increases efficiency, reduces effort, and improves accuracy.
+The Automatic Stamping Machine aims to overcome the challenges associated with the current manual process. By automating stamping/printing tasks, the machine increases efficiency, reduces effort, and improves accuracy.
 
 ## Documentation
-For detailed documentation of the design and development of the Automatic Stamping Machine, please refer to the Wiki page of this GitHub repository. The wiki contains comprehensive information on the machine's specifications, components, software, and other relevant details.
+For detailed documentation of the design and development of the Automatic Stamping Machine, please refer to the `Wiki page` of this GitHub repository. The wiki contains comprehensive information on the machine's specifications, components, software, and other relevant details.
 ## Contributing
 Thank you for your interest in contributing to the Automatic Stamping Machine project! We welcome contributions from the community to help enhance and improve this project. To ensure a smooth and collaborative experience, please follow these guidelines:
 
@@ -28,16 +28,16 @@ If you encounter any bugs or have suggestions for new features, please follow th
 - For feature requests, clearly describe the desired functionality and explain how it would benefit the project.
 
 ### Communication
-For general discussions, questions, or feedback related to the project, you can mail me or other team members. Our work mails are provided in our profiles.
+For general discussions, questions, or feedback related to the project, you can mail me or other team members. Our work emails are provided in our profiles.
 
 ### Code of Conduct
 This project adheres to a `Project Code of Conduct.txt`. By participating, you are expected to uphold this code and contribute to creating a positive and inclusive environment for all.
 ### License
 This project is licensed under the MIT License. Please see the `LICENSE` file for more details.
 ## Acknowledgements
-We would like to express our sincere gratitude to Ms. Radhika. Amashi for their guidance and support throughout the development of this project. Their expertise and insights have been invaluable in shaping the direction of the Automatic Stamping Machine.
+We would like to express our sincere gratitude to Ms Radhika. Amashi for their guidance and support throughout the development of this project. Their expertise and insights have been invaluable in shaping the direction of the Automatic Stamping Machine.
 
-We would also like to thank KLE Technological University for providing us with the opportunity to work on this project as part of our academic curriculum. Their resources and encouragement have been instrumental in the successful completion of this endeavor.
+We would also like to thank KLE Technological University for providing us with the opportunity to work on this project as part of our academic curriculum. Their resources and encouragement have been instrumental in the successful completion of this endeavour.
 ## Team Members
 - [Pavan. Patil](https://github.com/pavanmp72826)
 - [Ankita. Basutakar](https://github.com/01fe20bar018)
