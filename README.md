@@ -1,7 +1,7 @@
 # Automatic Stamping Machine
 
 ## Introduction
-The Automatic Stamping Machine is a revolutionary solution designed to streamline and automate the stamping and printing process. By eliminating the need for manual effort, this advanced machine offers increased efficiency and productivity for companies like ABC Packaging Company. With the ability to stamp the company's logo, address, product details, and more on various objects such as packets, paper/documents, boxes, or bottles, the Automatic Stamping Machine significantly reduces labor-intensive tasks and minimizes the risk of human error. This cutting-edge technology promises to revolutionize the packaging industry by delivering precise and consistent results, improving throughput, and saving valuable time and resources.
+The Automatic Stamping Machine is a revolutionary solution designed to streamline and automate the stamping and printing process. By eliminating the need for manual effort, this advanced machine offers increased efficiency and productivity for companies like ABC Packaging Company. With the ability to stamp the company's logo, address, product details, and more on various objects such as packets, paper/documents, boxes, or bottles, the Automatic Stamping Machine significantly reduces labour-intensive tasks and minimizes the risk of human error. This cutting-edge technology promises to revolutionize the packaging industry by delivering precise and consistent results, improving throughput, and saving valuable time and resources.
 
 
 ## Project Description
