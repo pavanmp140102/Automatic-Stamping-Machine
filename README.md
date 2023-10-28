@@ -39,7 +39,7 @@ We would like to express our sincere gratitude to Ms Radhika. Amashi for their g
 
 We would also like to thank KLE Technological University for providing us with the opportunity to work on this project as part of our academic curriculum. Their resources and encouragement have been instrumental in the successful completion of this endeavour.
 ## Team Members
-- [Pavan. Patil](https://github.com/pavanmp140102)
+- [Pavan. Patil](https://github.com/pavanmp72826)
 - [Ankita. Basutakar](https://github.com/01fe20bar018)
 - [Prakash. Bidarkundi](https://github.com/01fe20bme106)
 - [Jyoti. Tambake](https://github.com/J01fe20bme100)
